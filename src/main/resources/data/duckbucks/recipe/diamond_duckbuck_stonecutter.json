@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "duckbucks",
+  "ingredient": {
+    "item": "duckbucks:diamond_duckbuck"
+  },
+  "result": {
+    "id": "minecraft:diamond",
+    "count": 1
+  }
+}

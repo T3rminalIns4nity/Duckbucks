@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ducktokens",
+  "category": "material",
+  "pattern": [
+    "###",
+    "#I#",
+    "###"
+  ],
+
+  "key": {
+    "#": {
+      "tag": "duckbucks:ducktokens"
+    },
+    "I": {
+      "item": "minecraft:gravel"
+    }
+  },
+
+  "result": {
+    "id": "duckbucks:flint_duckbuck",
+    "count": 8
+  }
+
+}

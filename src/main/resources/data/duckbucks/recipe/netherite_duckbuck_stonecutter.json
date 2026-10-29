@@ -1,0 +1,16 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "duckbucks:is_netherite_duckbuck_enabled"
+    }
+  ],
+  "type": "minecraft:stonecutting",
+  "group": "duckbucks",
+  "ingredient": {
+    "item": "duckbucks:netherite_duckbuck"
+  },
+  "result": {
+    "id": "minecraft:netherite_scrap",
+    "count": 1
+  }
+}

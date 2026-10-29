@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "duckbucks",
+  "category": "material",
+  "pattern": [
+    " ##",
+    "##P"
+  ],
+
+  "key": {
+    "#": {
+      "item": "minecraft:raw_copper"
+    },
+    "P": {
+      "tag": "c:papers"
+    }
+  },
+
+  "result": {
+    "id": "duckbucks:copper_duckbuck",
+    "count": 1
+  }
+
+}

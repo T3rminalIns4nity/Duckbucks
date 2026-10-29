@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "ducktokens",
+  "ingredient": {
+    "item": "duckbucks:emerald_duckbuck"
+  },
+  "result": {
+    "id": "duckbucks:quartz_duckbuck",
+    "count": 4
+  }
+}

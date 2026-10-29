@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ducktokens",
+  "category": "material",
+  "pattern": [
+    "###",
+    "#P#",
+    "###"
+  ],
+
+  "key": {
+    "#": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "P": {
+      "tag": "c:papers"
+    }
+  },
+
+  "result": {
+    "id": "duckbucks:lapis_duckbuck",
+    "count": 1
+  }
+
+}

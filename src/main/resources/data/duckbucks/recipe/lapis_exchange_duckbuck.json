@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ducktokens",
+  "category": "material",
+  "pattern": [
+    "###",
+    "#I#",
+    "###"
+  ],
+
+  "key": {
+    "#": {
+      "tag": "duckbucks:ducktokens"
+    },
+    "I": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+
+  "result": {
+    "id": "duckbucks:lapis_duckbuck",
+    "count": 8
+  }
+
+}

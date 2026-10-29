@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "duckbucks",
+  "category": "material",
+  "ingredients": [
+    {
+      "item": "duckbucks:diamond_duckbuck"
+    }
+  ],
+  "result": {
+    "id": "duckbucks:gold_duckbuck",
+    "count": 4
+  }
+
+}

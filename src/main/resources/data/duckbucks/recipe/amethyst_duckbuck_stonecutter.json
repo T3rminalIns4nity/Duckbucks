@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "ducktokens",
+  "ingredient": {
+    "item": "duckbucks:amethyst_duckbuck"
+  },
+  "result": {
+    "id": "minecraft:amethyst_shard",
+    "count": 8
+  }
+}

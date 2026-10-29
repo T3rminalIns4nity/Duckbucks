@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "duckbucks",
+  "category": "material",
+  "pattern": [
+    "##",
+    "##"
+  ],
+
+  "key": {
+    "#": {
+      "item": "duckbucks:iron_duckbuck"
+    }
+  },
+
+  "result": {
+    "id": "duckbucks:gold_duckbuck",
+    "count": 1
+  }
+
+}

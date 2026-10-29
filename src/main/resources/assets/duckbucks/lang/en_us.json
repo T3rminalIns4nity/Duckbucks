@@ -1,0 +1,38 @@
+{
+  "item.duckbucks.wallet": "Wallet",
+  "item.duckbucks.copper_duckbuck": "Copper Duckbuck",
+  "item.duckbucks.gold_duckbuck": "Gold Duckbuck",
+  "item.duckbucks.iron_duckbuck": "Iron Duckbuck",
+  "item.duckbucks.diamond_duckbuck": "Diamond Duckbuck",
+  "item.duckbucks.netherite_duckbuck": "Netherite Duckbuck",
+  "item.duckbucks.lapis_duckbuck": "Lapis Ducktoken",
+  "item.duckbucks.redstone_duckbuck": "Redstone Ducktoken",
+  "item.duckbucks.quartz_duckbuck": "Quartz Ducktoken",
+  "item.duckbucks.flint_duckbuck": "Flint Ducktoken",
+  "item.duckbucks.prismarine_duckbuck": "Prismarine Ducktoken",
+  "item.duckbucks.amethyst_duckbuck": "Amethyst Ducktoken",
+  "item.duckbucks.emerald_duckbuck": "Emerald Duckbuck",
+
+
+  "tooltip.duckbucks.ducktoken": "§9A Token preferred by specialists",
+  "tooltip.duckbucks.emerald_duckbuck": "§aCan be converted into Ducktokens at a Stonecutter",
+
+  "tooltip.duckbucks.summary_inactive": "§8« Hold [Shift] for exchange values »",
+  "tooltip.duckbucks.summary_active": "§8« Hold [§fShift§8] for exchange values »",
+
+  "tooltip.duckbucks.wallet": "§8Use§6 %1$s §8in-world to open",
+  "tooltip.duckbucks.wallet_storable": "§8Stores §6Duckbucks§8 and §6Ducktokens",
+  "tooltip.duckbucks.wallet_inactive": "§8« Hold [Shift] for details »",
+  "tooltip.duckbucks.wallet_active": "§8« Hold [§fShift§8] for details »",
+
+  "tooltip.duckbucks.exchange": "%3$s %1$s §8// %4$s %2$s",
+
+
+  "creativetab.duckbucks_tab" : "Duckbucks",
+  "curios.identifier.pocket": "Pocket Slot",
+
+
+  "tag.duckbucks.duckbucks": "Duckbucks",
+  "tag.duckbucks.ducktokens": "Ducktokens",
+  "tag.duckbucks.duck_currency": "Duck Currency"
+}

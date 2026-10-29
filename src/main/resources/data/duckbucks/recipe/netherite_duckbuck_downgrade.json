@@ -1,0 +1,20 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "duckbucks:is_netherite_duckbuck_enabled"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless",
+  "group": "duckbucks",
+  "category": "material",
+  "ingredients": [
+    {
+      "item": "duckbucks:netherite_duckbuck"
+    }
+  ],
+  "result": {
+    "id": "duckbucks:diamond_duckbuck",
+    "count": 4
+  }
+
+}

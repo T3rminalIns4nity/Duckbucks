@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "ducktokens",
+  "category": "material",
+  "pattern": [
+    "###",
+    "#P#",
+    "###"
+  ],
+
+  "key": {
+    "#": {
+      "item": "minecraft:prismarine_shard"
+    },
+    "P": {
+      "tag": "c:papers"
+    }
+  },
+
+  "result": {
+    "id": "duckbucks:prismarine_duckbuck",
+    "count": 1
+  }
+
+}

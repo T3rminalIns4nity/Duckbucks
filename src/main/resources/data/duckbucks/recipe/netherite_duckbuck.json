@@ -1,0 +1,28 @@
+{
+  "neoforge:conditions": [
+    {
+      "type": "duckbucks:is_netherite_duckbuck_enabled"
+    }
+  ],
+  "type": "minecraft:crafting_shaped",
+  "group": "duckbucks",
+  "category": "material",
+  "pattern": [
+    "#",
+    "P"
+  ],
+
+  "key": {
+    "#": {
+      "item": "minecraft:netherite_scrap"
+    },
+    "P": {
+      "tag": "c:papers"
+    }
+  },
+  "result": {
+    "id": "duckbucks:netherite_duckbuck",
+    "count": 1
+  }
+
+}

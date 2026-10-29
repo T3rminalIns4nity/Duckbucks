@@ -1,0 +1,16 @@
+package code.ins4nity.too.many.packages.duckbucks.client;
+
+import code.ins4nity.too.many.packages.duckbucks.Duckbucks;
+import code.ins4nity.too.many.packages.duckbucks.util.ModMenus;
+import net.neoforged.api.distmarker.Dist;
+import net.neoforged.bus.api.SubscribeEvent;
+import net.neoforged.fml.common.EventBusSubscriber;
+import net.neoforged.neoforge.client.event.RegisterMenuScreensEvent;
+
+@EventBusSubscriber(modid = Duckbucks.MOD_ID, bus = EventBusSubscriber.Bus.MOD, value = Dist.CLIENT)
+public class DuckbucksClient {
+    @SubscribeEvent
+    public static void registerScreens(RegisterMenuScreensEvent event) {
+        event.register(ModMenus.WALLET_MENU.get(), WalletContainerScreen::new);
+    }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:stonecutting",
+  "group": "ducktokens",
+  "ingredient": {
+    "item": "duckbucks:prismarine_duckbuck"
+  },
+  "result": {
+    "id": "minecraft:prismarine_shard",
+    "count": 8
+  }
+}
