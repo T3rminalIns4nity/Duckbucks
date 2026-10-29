@@ -20,16 +20,21 @@
   "tooltip.duckbucks.summary_inactive": "§8« Hold [Shift] for exchange values »",
   "tooltip.duckbucks.summary_active": "§8« Hold [§fShift§8] for exchange values »",
 
-  "tooltip.duckbucks.wallet": "§8Use§6 %1$s §8in-world to open",
-  "tooltip.duckbucks.wallet_storable": "§8Stores §6Duckbucks§8 and §6Ducktokens",
+  "tooltip.duckbucks.wallet": "§7Use§6 %1$s §7in-world to open",
+  "tooltip.duckbucks.wallet_storable": "§7Stores §6Duckbucks§7 and §6Ducktokens",
   "tooltip.duckbucks.wallet_inactive": "§8« Hold [Shift] for details »",
   "tooltip.duckbucks.wallet_active": "§8« Hold [§fShift§8] for details »",
+  "tooltip.duckbucks.wallet_empty": "§7Empty",
+  "tooltip.duckbucks.wallet_balance": "§7Total value: ",
+  "tooltip.duckbucks.balance_ctrl": "§8« Hold [§fCtrl§8 + Alt] to view contents as items »",
+  "tooltip.duckbucks.balance_ctrl_alt": "§8« Hold [§fCtrl§8 + §fAlt§8] to view contents as items »",
+  "tooltip.duckbucks.balance_inactive": "§8« Hold [Ctrl] to view contents »",
 
   "tooltip.duckbucks.exchange": "%3$s %1$s §8// %4$s %2$s",
 
 
   "creativetab.duckbucks_tab" : "Duckbucks",
-  "curios.identifier.pocket": "Pocket Slot",
+  "curios.identifier.pocket": "Pocket",
 
 
   "tag.duckbucks.duckbucks": "Duckbucks",

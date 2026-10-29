@@ -16,7 +16,7 @@ public class WalletContainerScreen extends AbstractContainerScreen<WalletMenu> i
         super(menu, inventory, title);
         this.imageWidth = 256;
         this.imageHeight = 256;
-        this.inventoryLabelX = this.imageWidth - 210;
+        this.inventoryLabelX = this.imageWidth - 209;
         this.inventoryLabelY = this.imageHeight - 139;
         this.titleLabelX = this.imageWidth - 173;
         this.titleLabelY = this.imageHeight - 205;
